@@ -234,6 +234,8 @@
     }
     
     .slider1 {
+        justify-content: space-between;
+        flex-direction: column;
         background-size: 90% 40%;
     }
 
