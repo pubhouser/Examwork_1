@@ -399,6 +399,7 @@
 
     .advantages_wrapper .advantages_statist ul > li {
         padding: 10px;
+        width: 50%;
     }
 
     .footer .footer_adress {
